@@ -1,5 +1,5 @@
 import Head from 'next/head'
-import Link from 'next/Link'
+import Link from 'next/link'
 import Footer from '../comps/Footer'
 import Navbar from '../comps/Navbar'
 import styles from '../styles/Home.module.css'
